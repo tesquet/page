@@ -1,3 +1,3 @@
 <header>
-  <a href="/php-login">Welcome</a>
+  <a href="/php-login">Your App Name</a>
 </header>
